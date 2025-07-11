@@ -24,7 +24,7 @@ const Profile = () => {
         </p>
 
         <a
-          href="https://drive.google.com/file/d/1IEZsQGs8f1gpInu7MC81ffBCFMd0XuSu/view?usp=sharing"
+          href="https://drive.google.com/file/d/1W3vHh3VaYKqMQDcD_6CyXq7XURCzvew0/view?usp=sharing"
           className="cv-button"
           target="_blank"
           rel="noopener noreferrer"
