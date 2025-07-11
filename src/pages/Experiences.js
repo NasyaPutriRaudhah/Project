@@ -3,25 +3,34 @@ import './Experiences.css';
 
 const experienceList = [
   {
+    title: 'Public Relations – GDGoC UGM',
+    image: '/PR.jpg',
+    description: 'Managing external communication, promoting tech events, and maintaining social media presence.', 
+    period : 'October 2024 - Present'
+  }, 
+  {
     title: 'Programming Teaching Assistant',
     image: '/asdos.jpg', 
     description: 'Assisting students in practical programming classes, guiding them through problem solving and logic.',
-    period: '2023 - Present'
+    period: 'August 2024 - December 2024'
+  },
+  {
+    title : 'Co-Faciliator Pionir Gadjah Mada 2024', 
+    image : '/pionir.jpg',
+    description : 'Facilitated campus orientation for 60+ new students, ensuring they felt welcomed and well-informed.',
+    period : 'March 2024 - August 2024'
   },
   {
     title: 'Secretary – Himakom UGM',
     image: '/sekre.jpg',
-    description: 'Responsible for documentation, meeting minutes, and administrative coordination within the organization.'
+    description: 'Responsible for documentation, meeting minutes, and administrative coordination within the organization.',
+    period: 'March 2024 - August 2024'
   },
   {
-    title: 'Public Relations – GDGoC UGM',
-    image: '/PR.jpg',
-    description: 'Managing external communication, promoting tech events, and maintaining social media presence.'
-  }, 
-  {
-    title : 'Co-Faciliator Pionir Gadjah Mada 2024', 
-    image : '/pionir.jpg',
-    description : 'Collaborating with a team to facilitate and organize events for new students, enhancing'
+    title: 'Master of Ceremony – Malam Apresiasi MIPA UGM',
+    image: '/mc.jpg',
+    description: 'Led the event flow smoothly, ensuring each session transitioned seamlessly and on schedule.',
+    period: 'November 2023'
   }
 ];
 

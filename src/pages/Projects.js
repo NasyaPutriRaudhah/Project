@@ -3,6 +3,13 @@ import './Projects.css';
 
 const projectData = [
   {
+    title: 'Length of Stay Prediction',
+    description: 'This is a project that I made for Datathon Competition 2025. This project is comparing some machine learning models to predict the length of stay of patients in the hospital. This project successfully reached 0,14 in RMSE with R2 score 0,97 using LightGBM and hyperparameter tuning using GridSearchCV.',
+    image: '/hospital.png',
+    githubLink: 'https://github.com/NasyaPutriRaudhah/Datathon',
+    liveLink: 'https://github.com/NasyaPutriRaudhah/Datathon', 
+  },
+  {
     title: 'Covid-19 Image Classifier',
     image : '/covid.png',
     description: 'This project is a CNN-based classifier to detect COVID-19 from chest X-ray images. This is a project that I made fo my computer vision assignment. Making this project with Google Colab, OpenCV, and TensorFlow. ',
@@ -15,6 +22,13 @@ const projectData = [
     description: 'This project was developed for my first GEMASTIK competition in collaboration with my team and academic supervisor. It focuses on predicting patient waiting times before being called to see the doctor using the Gradient Boosting algorithm. We built the model using Python, with Pandas for data processing and Scikit-learn for machine learning implementation',
     githubLink: 'https://drive.google.com/file/d/1IgxllViQM8arbHSesbLRCtuCkfJAHzRF/view',
     liveLink: 'https://drive.google.com/file/d/1IgxllViQM8arbHSesbLRCtuCkfJAHzRF/view',
+  },
+  {
+    title: 'Laptop Price Prediction',
+    image: '/laptop.png',
+    description: 'This project is my final project for numerical method course. This project predicts the price of a laptop based on its specifications using polynomial regression and gradient descent for optimization. This project successfully reached 0,12 in MSE.', 
+    githubLink: 'https://github.com/NasyaPutriRaudhah/Laptop-Price-Prediction',
+    liveLink: 'https://github.com/NasyaPutriRaudhah/Laptop-Price-Prediction',
   },
   {
     title: 'Face Recoginition',
@@ -37,13 +51,6 @@ const projectData = [
     githubLink: 'https://github.com/username/covid19-classifier',
     liveLink: 'https://nasya-personalweb.netlify.app/', 
   },
-    {
-    title: 'Length of Stay Prediction',
-    description: 'This is a project that I made for Datathon Competition 2025. This project is comparing some machine learning models to predict the length of stay of patients in the hospital. This project successfully reached 0,14 in RMSE with R2 score 0,97 using LightGBM and hyperparameter tuning using GridSearchCV.',
-    image: '/hospital.png',
-    githubLink: 'https://github.com/NasyaPutriRaudhah/Datathon',
-    liveLink: 'https://github.com/NasyaPutriRaudhah/Datathon', 
-  }
 ];
 
 const techStack = [
