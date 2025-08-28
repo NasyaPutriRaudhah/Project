@@ -24,7 +24,7 @@ const Profile = () => {
         </p>
 
         <a
-          href="https://drive.google.com/file/d/1W3vHh3VaYKqMQDcD_6CyXq7XURCzvew0/view?usp=sharing"
+          href="https://drive.google.com/file/d/1anFKueAmw2-hUJFlDXoF5PBqJIzCz3ju/view?usp=sharing"
           className="cv-button"
           target="_blank"
           rel="noopener noreferrer"
@@ -86,3 +86,4 @@ const Profile = () => {
 };
 
 export default Profile;
+
